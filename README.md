@@ -8,4 +8,7 @@ Java, HTML5, CSS3
 
 <h2> SceenShot</h2>
 
-![](Film Sitesi.gif)
+![][def]
+
+
+[def]: Film_Sitesi.gif
